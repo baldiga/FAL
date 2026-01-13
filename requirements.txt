@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+fal-client
+google-generativeai
+python-multipart
+pydantic
